@@ -1,0 +1,5 @@
+﻿BMI,Result,Number of Records
+Less than 18.5,Under Weight,1
+18.5 - 24.9,Healthy Weight,1
+25 - 29.9,Over Weight,1
+Greater than 30,Obesity,1

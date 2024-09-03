@@ -1,0 +1,6 @@
+﻿Result,Value(mmol/L),Number of Records
+Optimal,less than 2.6,1
+Near Optimal,2.6 to 3.4,1
+Borderline High,3.5 to 4.1,1
+High,4.1 to 4.9,1
+Very High,greater than 5,1

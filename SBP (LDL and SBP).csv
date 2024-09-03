@@ -1,0 +1,6 @@
+﻿Blood Pressure Category,Value (mm Hg),Number of Records
+Normal,Less than 120,1
+Elevated,120 to 129,1
+Hypertension Stage 1,130 to 139,1
+Hypertension Stage 2,140 to 179,1
+Hypertensive Crisis,Higher than 180,1
